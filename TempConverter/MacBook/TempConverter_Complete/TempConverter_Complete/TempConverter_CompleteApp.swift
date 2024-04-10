@@ -2,7 +2,7 @@
 //  TempConverter_CompleteApp.swift
 //  TempConverter_Complete
 //
-//  Created by Harvey Ng on 11/4/2024.
+//  Created by [Redacted]
 //
 
 import SwiftUI
