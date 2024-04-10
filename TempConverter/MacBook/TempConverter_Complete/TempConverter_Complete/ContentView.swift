@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  HelloWorld_Complete
+//  TempConverter_Complete
 //
-//  Created by [Redacted]
+//  Created by Harvey Ng on 11/4/2024.
 //
 
 import SwiftUI
@@ -14,10 +14,6 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
-            Image("world")
-                .resizable()
-                .aspectRatio(contentMode: .fit)
-            Text("Image Earth")
         }
         .padding()
     }
