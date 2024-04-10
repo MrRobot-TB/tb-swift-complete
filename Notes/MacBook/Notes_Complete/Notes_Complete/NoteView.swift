@@ -8,11 +8,16 @@
 import SwiftUI
 
 struct NoteView: View {
+    @Binding var notes: [String]
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        List(notes, id:\.self){
+            note in Text(note)
+        }
+        .navigationBarTitle("Notes")
     }
 }
 
 #Preview {
-    NoteView()
+    @State var notes: [String] = ["Testing"]
+    return NoteView(notes: $notes)
 }
