@@ -7,22 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4C44C9F82BC7271A002E3242 /* TempConverter_CompleteApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C44C9F72BC7271A002E3242 /* TempConverter_CompleteApp.swift */; };
-		4C44C9FA2BC7271A002E3242 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C44C9F92BC7271A002E3242 /* ContentView.swift */; };
-		4C44C9FC2BC7271C002E3242 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C44C9FB2BC7271C002E3242 /* Assets.xcassets */; };
-		4C44C9FF2BC7271C002E3242 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C44C9FE2BC7271C002E3242 /* Preview Assets.xcassets */; };
+		4C44CA122BC72883002E3242 /* TempConverter_CompleteApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C44CA112BC72883002E3242 /* TempConverter_CompleteApp.swift */; };
+		4C44CA142BC72883002E3242 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C44CA132BC72883002E3242 /* ContentView.swift */; };
+		4C44CA162BC72885002E3242 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C44CA152BC72885002E3242 /* Assets.xcassets */; };
+		4C44CA192BC72885002E3242 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C44CA182BC72885002E3242 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4C44C9F42BC7271A002E3242 /* TempConverter_Complete.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TempConverter_Complete.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		4C44C9F72BC7271A002E3242 /* TempConverter_CompleteApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempConverter_CompleteApp.swift; sourceTree = "<group>"; };
-		4C44C9F92BC7271A002E3242 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		4C44C9FB2BC7271C002E3242 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4C44C9FE2BC7271C002E3242 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4C44CA0E2BC72883002E3242 /* TempConverter_Complete.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TempConverter_Complete.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4C44CA112BC72883002E3242 /* TempConverter_CompleteApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempConverter_CompleteApp.swift; sourceTree = "<group>"; };
+		4C44CA132BC72883002E3242 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		4C44CA152BC72885002E3242 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4C44CA182BC72885002E3242 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4C44C9F12BC7271A002E3242 /* Frameworks */ = {
+		4C44CA0B2BC72883002E3242 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -32,37 +32,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4C44C9EB2BC7271A002E3242 = {
+		4C44CA052BC72882002E3242 = {
 			isa = PBXGroup;
 			children = (
-				4C44C9F62BC7271A002E3242 /* TempConverter_Complete */,
-				4C44C9F52BC7271A002E3242 /* Products */,
+				4C44CA102BC72883002E3242 /* TempConverter_Complete */,
+				4C44CA0F2BC72883002E3242 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		4C44C9F52BC7271A002E3242 /* Products */ = {
+		4C44CA0F2BC72883002E3242 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4C44C9F42BC7271A002E3242 /* TempConverter_Complete.app */,
+				4C44CA0E2BC72883002E3242 /* TempConverter_Complete.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4C44C9F62BC7271A002E3242 /* TempConverter_Complete */ = {
+		4C44CA102BC72883002E3242 /* TempConverter_Complete */ = {
 			isa = PBXGroup;
 			children = (
-				4C44C9F72BC7271A002E3242 /* TempConverter_CompleteApp.swift */,
-				4C44C9F92BC7271A002E3242 /* ContentView.swift */,
-				4C44C9FB2BC7271C002E3242 /* Assets.xcassets */,
-				4C44C9FD2BC7271C002E3242 /* Preview Content */,
+				4C44CA112BC72883002E3242 /* TempConverter_CompleteApp.swift */,
+				4C44CA132BC72883002E3242 /* ContentView.swift */,
+				4C44CA152BC72885002E3242 /* Assets.xcassets */,
+				4C44CA172BC72885002E3242 /* Preview Content */,
 			);
 			path = TempConverter_Complete;
 			sourceTree = "<group>";
 		};
-		4C44C9FD2BC7271C002E3242 /* Preview Content */ = {
+		4C44CA172BC72885002E3242 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				4C44C9FE2BC7271C002E3242 /* Preview Assets.xcassets */,
+				4C44CA182BC72885002E3242 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -70,13 +70,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4C44C9F32BC7271A002E3242 /* TempConverter_Complete */ = {
+		4C44CA0D2BC72883002E3242 /* TempConverter_Complete */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4C44CA022BC7271C002E3242 /* Build configuration list for PBXNativeTarget "TempConverter_Complete" */;
+			buildConfigurationList = 4C44CA1C2BC72885002E3242 /* Build configuration list for PBXNativeTarget "TempConverter_Complete" */;
 			buildPhases = (
-				4C44C9F02BC7271A002E3242 /* Sources */,
-				4C44C9F12BC7271A002E3242 /* Frameworks */,
-				4C44C9F22BC7271A002E3242 /* Resources */,
+				4C44CA0A2BC72883002E3242 /* Sources */,
+				4C44CA0B2BC72883002E3242 /* Frameworks */,
+				4C44CA0C2BC72883002E3242 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -84,25 +84,25 @@
 			);
 			name = TempConverter_Complete;
 			productName = TempConverter_Complete;
-			productReference = 4C44C9F42BC7271A002E3242 /* TempConverter_Complete.app */;
+			productReference = 4C44CA0E2BC72883002E3242 /* TempConverter_Complete.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		4C44C9EC2BC7271A002E3242 /* Project object */ = {
+		4C44CA062BC72882002E3242 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1530;
 				LastUpgradeCheck = 1530;
 				TargetAttributes = {
-					4C44C9F32BC7271A002E3242 = {
+					4C44CA0D2BC72883002E3242 = {
 						CreatedOnToolsVersion = 15.3;
 					};
 				};
 			};
-			buildConfigurationList = 4C44C9EF2BC7271A002E3242 /* Build configuration list for PBXProject "TempConverter_Complete" */;
+			buildConfigurationList = 4C44CA092BC72882002E3242 /* Build configuration list for PBXProject "TempConverter_Complete" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,42 +110,42 @@
 				en,
 				Base,
 			);
-			mainGroup = 4C44C9EB2BC7271A002E3242;
-			productRefGroup = 4C44C9F52BC7271A002E3242 /* Products */;
+			mainGroup = 4C44CA052BC72882002E3242;
+			productRefGroup = 4C44CA0F2BC72883002E3242 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4C44C9F32BC7271A002E3242 /* TempConverter_Complete */,
+				4C44CA0D2BC72883002E3242 /* TempConverter_Complete */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4C44C9F22BC7271A002E3242 /* Resources */ = {
+		4C44CA0C2BC72883002E3242 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4C44C9FF2BC7271C002E3242 /* Preview Assets.xcassets in Resources */,
-				4C44C9FC2BC7271C002E3242 /* Assets.xcassets in Resources */,
+				4C44CA192BC72885002E3242 /* Preview Assets.xcassets in Resources */,
+				4C44CA162BC72885002E3242 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4C44C9F02BC7271A002E3242 /* Sources */ = {
+		4C44CA0A2BC72883002E3242 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4C44C9FA2BC7271A002E3242 /* ContentView.swift in Sources */,
-				4C44C9F82BC7271A002E3242 /* TempConverter_CompleteApp.swift in Sources */,
+				4C44CA142BC72883002E3242 /* ContentView.swift in Sources */,
+				4C44CA122BC72883002E3242 /* TempConverter_CompleteApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		4C44CA002BC7271C002E3242 /* Debug */ = {
+		4C44CA1A2BC72885002E3242 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -208,7 +208,7 @@
 			};
 			name = Debug;
 		};
-		4C44CA012BC7271C002E3242 /* Release */ = {
+		4C44CA1B2BC72885002E3242 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -264,7 +264,7 @@
 			};
 			name = Release;
 		};
-		4C44CA032BC7271C002E3242 /* Debug */ = {
+		4C44CA1D2BC72885002E3242 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -292,7 +292,7 @@
 			};
 			name = Debug;
 		};
-		4C44CA042BC7271C002E3242 /* Release */ = {
+		4C44CA1E2BC72885002E3242 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -323,25 +323,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4C44C9EF2BC7271A002E3242 /* Build configuration list for PBXProject "TempConverter_Complete" */ = {
+		4C44CA092BC72882002E3242 /* Build configuration list for PBXProject "TempConverter_Complete" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4C44CA002BC7271C002E3242 /* Debug */,
-				4C44CA012BC7271C002E3242 /* Release */,
+				4C44CA1A2BC72885002E3242 /* Debug */,
+				4C44CA1B2BC72885002E3242 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4C44CA022BC7271C002E3242 /* Build configuration list for PBXNativeTarget "TempConverter_Complete" */ = {
+		4C44CA1C2BC72885002E3242 /* Build configuration list for PBXNativeTarget "TempConverter_Complete" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4C44CA032BC7271C002E3242 /* Debug */,
-				4C44CA042BC7271C002E3242 /* Release */,
+				4C44CA1D2BC72885002E3242 /* Debug */,
+				4C44CA1E2BC72885002E3242 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 4C44C9EC2BC7271A002E3242 /* Project object */;
+	rootObject = 4C44CA062BC72882002E3242 /* Project object */;
 }
